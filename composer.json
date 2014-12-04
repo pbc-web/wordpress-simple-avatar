@@ -1,0 +1,10 @@
+{
+    "name": "poweredbycoffee/simple-wordpress-avatars",
+    "authors": [
+        {
+            "name": "Stewart Ritchie",
+            "email": "stewart@poweredbycoffee.co.uk"
+        }
+    ],
+    "require": {}
+}
