@@ -1,5 +1,6 @@
 {
     "name": "poweredbycoffee/simple-wordpress-avatars",
+    "type": "wordpress-plugin",
     "authors": [
         {
             "name": "Stewart Ritchie",
